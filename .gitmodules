@@ -1,3 +1,0 @@
-[submodule "lib/schema"]
-	path = lib/schema
-	url = https://github.com/RusticiSoftware/TinCanSchema.git
