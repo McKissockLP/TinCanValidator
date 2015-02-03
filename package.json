@@ -2,13 +2,11 @@
   "author": "Chaim-Leib Halbert <chaim.leib.halbert@gmail.com>",
   "name": "tincan-validator",
   "description": "Tin Can Validator",
+  "main": "lib/tinCanValidator.js",
   "version": "0.2.1",
   "repository": {
       "type": "git",
-      "url": "https://github.com/RusticiSoftware/TinCanValidator.git"
-  },
-  "engines": {
-    "node": "~0.6.11"
+      "url": "https://github.com/McKissockLP/TinCanValidator.git"
   },
   "dependencies": {
     "tv4": "~1.0.18",
@@ -19,7 +17,6 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "scripts": {
-      "install": "pushd lib && git submodule init && git submodule update && popd",
       "test": "node test/test.js"
   }
 }
