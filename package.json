@@ -2,7 +2,7 @@
   "author": "Chaim-Leib Halbert <chaim.leib.halbert@gmail.com>",
   "name": "tincan-validator",
   "description": "Tin Can Validator",
-  "main": "lib/tinCanValidator.js",
+  "main": "lib/tincanValidator.js",
   "version": "0.2.1",
   "repository": {
       "type": "git",
